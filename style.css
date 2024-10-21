@@ -1,0 +1,30 @@
+body {
+    background-image: url("./img/school_wallpaper.png"); /* Cambia esta URL a la ruta correcta de tu imagen */
+    background-size: cover; /* O usa 100% 100% para estirarla completamente */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    height: 90vh; /* Asegúrate de que el cuerpo tenga una altura del 100% de la ventana */
+}
+
+.result {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.squared {
+    background-color: #d8c6b87d;
+    border-radius: 20px;
+    margin-top: 10%;
+}
+
+.calculate {
+    background-color: #dbacab;
+    color: white;
+    border: none;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.3);
+  
+  }
+  
+  .calculate:hover {
+    background-color: #be9a9a;
+  }
