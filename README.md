@@ -1,4 +1,4 @@
-# logic-programming-2: Factorial Calculator
+# logic-programming-3: Factorial Calculator
 
 ## Description
 
