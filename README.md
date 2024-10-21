@@ -8,7 +8,7 @@ JavaScript program that calculates the factorial of a number provided by the use
 2. Calculates the factorial of the given number.
 3. Prints the result to the console or displays it in the DOM.
 
-# Technologies Used
+### Technologies Used
 - HTML
 - CSS
 - JavaScript
